@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewsApplication", "NewsAppl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{69D48F29-AE19-4EED-9D5B-F75932413461}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCore", "AppCore\AppCore\AppCore.csproj", "{F5CDEE7D-29C9-4ACA-BAFD-768B40DAE7B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCore", "AppCore\AppCore\AppCore.csproj", "{C84E71A1-7A93-41B5-B867-24CCEB01BCBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{69D48F29-AE19-4EED-9D5B-F75932413461}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69D48F29-AE19-4EED-9D5B-F75932413461}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69D48F29-AE19-4EED-9D5B-F75932413461}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F5CDEE7D-29C9-4ACA-BAFD-768B40DAE7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5CDEE7D-29C9-4ACA-BAFD-768B40DAE7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5CDEE7D-29C9-4ACA-BAFD-768B40DAE7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5CDEE7D-29C9-4ACA-BAFD-768B40DAE7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84E71A1-7A93-41B5-B867-24CCEB01BCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84E71A1-7A93-41B5-B867-24CCEB01BCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84E71A1-7A93-41B5-B867-24CCEB01BCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84E71A1-7A93-41B5-B867-24CCEB01BCBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

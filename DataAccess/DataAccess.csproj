@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AppCore\AppCore\AppCore.csproj" />
+    <ProjectReference Include="C:\Users\DGS\Desktop\AppCore\AppCore\AppCore.csproj" />
   </ItemGroup>
 
 </Project>
