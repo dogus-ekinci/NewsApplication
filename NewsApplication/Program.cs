@@ -12,6 +12,7 @@ builder.Services.AddControllersWithViews();
 #region IoC
 var connectionString = builder.Configuration.GetConnectionString("NewsApplicationDb");
 builder.Services.AddDbContext<Db>(options => options.UseSqlServer(connectionString));
+//builder.Services.AddDbContext<Db>(options => options.UseNpgsql(connectionString));
 builder.Services.AddScoped<CategoryServiceBase, CategoryService>();
 builder.Services.AddScoped<CornerPostServiceBase, CornerPostService>();
 builder.Services.AddScoped<NewsServiceBase, NewsService>();
